@@ -1,5 +1,4 @@
-const PHOTO_URL =
-  '/public/dewmi.jpeg';
+const PHOTO_URL = '/dewmi.jpeg';
 
 /** Stylized astronaut portrait card with HUD framing. */
 export default function AstronautPhoto() {
