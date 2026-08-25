@@ -1,5 +1,5 @@
 const PHOTO_URL =
-  'https://images.pexels.com/photos/7169858/pexels-photo-7169858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940';
+  '/public/dewmi.jpeg';
 
 /** Stylized astronaut portrait card with HUD framing. */
 export default function AstronautPhoto() {
