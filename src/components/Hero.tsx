@@ -78,7 +78,7 @@ export default function Hero() {
             Explore My Work
           </a>
           <a
-            href="/Dewmi Silva - CV.pdf"
+            href="/dewmisilva.pdf"
             download="Dewmi_Silva_CV.pdf"
             className="flex items-center gap-2 px-7 py-3.5 rounded-full border border-space-500/50 text-space-100 hover:border-stardust-400 hover:text-stardust-400 transition-all font-medium tracking-wide"
           >
